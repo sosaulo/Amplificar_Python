@@ -41,7 +41,7 @@ O objetivo do projeto é analisar e visualizar o comportamento de um sinal elét
    ```
 4. Execute o script:
    ```bash
-   python coisa_dothe.py
+   python Amplif_Python.py
    ```
 ---
 
