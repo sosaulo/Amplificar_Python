@@ -25,22 +25,22 @@ O objetivo do projeto é analisar e visualizar o comportamento de um sinal elét
 ## 🚀 Como Executar o Código
 
 1. Clone o repositório:
-   \\ash
+   \`\`\`bash
    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
    cd NOME_DO_REPOSITORIO
    \
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
-   \\ash
+   \`\`\`bash
    python -m venv .venv
    # Windows (PowerShell)
    .\.venv\Scripts\Activate.ps1
    \
 3. Instale as dependências necessárias:
-   \\ash
+   \`\`\`bash
    pip install numpy matplotlib
    \
 4. Execute o script:
-   \\ash
+   \`\`\`bash
    python coisa_dothe.py
    \
 ---
