@@ -8,9 +8,9 @@ O objetivo do projeto é analisar e visualizar o comportamento de um sinal elét
 
 ## 📌 Conteúdo do Repositório
 
-* \coisa_dothe.py\: Script principal em Python contendo a lógica das simulações e a geração dos gráficos.
-* \parte_1.png\: Gráfico gerado para a análise de distorção de frequência.
-* \parte_2.png\: Gráfico gerado para a análise da característica de transferência e distorção de amplitude ($\\tanh$).
+* `Amplif_Python.py`: Script principal em Python contendo a lógica das simulações e a geração dos gráficos.
+* `parte_1.png`: Gráfico gerado para a análise de distorção de frequência.
+* `parte_2.png`: Gráfico gerado para a análise da característica de transferência e distorção de amplitude ($\\tanh$).
 
 ---
 
