@@ -26,7 +26,7 @@ O objetivo do projeto é analisar e visualizar o comportamento de um sinal elét
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/sosaulo/Amplificador_Python.git
+   git clone https://github.com/sosaulo/Amplificar_Python.git
    cd Amplificador_Python
    ```
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
